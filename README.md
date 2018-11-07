@@ -1,3 +1,3 @@
 # first-rails-app
 
-it has two routes => /cars   & /post
+it has two routes => /cars   & /posts
